@@ -7,13 +7,14 @@ You can click the Preview link to take a look at your changes.
 
 I am an aspiring software developer hoping to be a full . I have been self teaching over the past year, using various resources / tools, and am currently enrolled in a BSCS program at Western Govenors University.
 
-He is familiar with
+I am familiar with
 - C/C++
 - JavaScript
 - Web Design (HTML/CSS)
 - Python
 - Bash Scripting
 - C#
+- Java
 - Various other technologies
 
 ## Partially Selft Taught
